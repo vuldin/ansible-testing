@@ -1,0 +1,23 @@
+slug: ansible-testing
+id: 7tczsru2yf4d
+title: Ansible testing
+teaser: Testing ansible...
+description: Deploying...
+icon: https://res.cloudinary.com/practicaldev/image/fetch/s--W2NpA-Jj--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/5327/ea54f4c7-abf0-46fc-a971-766b484ab9bd.png
+tags:
+- ansible
+owner: redpanda
+developers:
+- josh@redpanda.com
+show_timer: true
+timelimit: 8400
+lab_config:
+  overlay: false
+  width: 33
+  position: right
+  feedback_recap_enabled: true
+  loadingMessages: true
+  lab_v2: false
+  override_challenge_layout: false
+  hideStopButton: false
+checksum: "5764389836430775936"
